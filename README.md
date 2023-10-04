@@ -1,0 +1,4 @@
+Neste projeto, criei uma página da web simples e elegante com um toque de JavaScript para adicionar funcionalidade. Comecei definindo a estrutura HTML, incluindo um título e um contêiner com três cabeçalhos distintos. Em seguida, utilizei CSS para estilizar a página, definindo a cor de fundo e alinhando o conteúdo verticalmente e horizontalmente com Flexbox.
+
+No lado JavaScript, integrei um arquivo externo chamado "javascript.js". No JavaScript, realizei uma verificação baseada no número inserido pelo usuário. Se o número atender a critérios específicos, como ser um número inteiro, ser divisível por 2 e ser menor que 100, uma mensagem de sucesso é exibida. Caso contrário, uma mensagem de erro é exibida para o usuário.
+No geral, este projeto demonstra uma combinação habilidosa de HTML, CSS e JavaScript para criar uma página da web interativa e atraente.
